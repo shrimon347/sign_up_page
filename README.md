@@ -3,7 +3,7 @@
 ## sign in
 ![E-commerce website](https://github.com/shrimon347/sign_up_page/blob/main/first.PNG?raw=true)
 
-##sign up
+## sign up
 ![E-commerce website](https://github.com/shrimon347/sign_up_page/blob/main/Capture.PNG?raw=true)
 
 
